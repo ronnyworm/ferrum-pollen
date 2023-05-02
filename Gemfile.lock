@@ -16,10 +16,12 @@ GEM
     websocket-extensions (0.1.5)
 
 PLATFORMS
+  arm64-darwin-22
+  ruby
   x86_64-linux
 
 DEPENDENCIES
   ferrum
 
 BUNDLED WITH
-   2.2.33
+   2.4.12
